@@ -205,7 +205,7 @@ hr.small {
 /* About */
 
 .about {
-    padding: 50px 0;
+    padding: 100px 0;
     /*background-color: #F9966B;
     opacity: .9;*/
 }
@@ -239,24 +239,6 @@ hr.small {
     -o-background-size: cover;
 }
 
-/* Portfolio */
-
-.portfolio {
-    padding: 50px 0;
-}
-
-.portfolio-item {
-    margin-bottom: 30px;
-}
-
-.img-portfolio {
-    margin: 0 auto;
-}
-
-.img-portfolio:hover {
-    opacity: 0.8;
-}
-
 /* Call to Action */
 
 .call-to-action {
@@ -287,6 +269,12 @@ hr.small {
 
 footer {
     padding: 100px 0;
+    background-color: #87AFC7;
+    color: white;
+}
+
+footer strong {
+  color: white;
 }
 
 #to-top {
